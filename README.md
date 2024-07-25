@@ -1,0 +1,2 @@
+# MetodoNumerico
+Secante method
